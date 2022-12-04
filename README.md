@@ -1,6 +1,6 @@
 ![I am a front-end web developer](https://scontent.fdac155-1.fna.fbcdn.net/v/t1.6435-9/164740693_469787954442469_4972194703799359063_n.jpg?stp=c52.0.206.206a_dst-jpg_p206x206&_nc_cat=107&ccb=1-7&_nc_sid=da31f3&_nc_eui2=AeF1rr9fUS5LY4UOCtMBPBSl8s4oSGAXkXryzihIYBeReinWZWQRc0Xs3j6SLTczLBfwcuOOHW4Uig9FvB92NoTd&_nc_ohc=kN3C-UMiKIcAX_j-nU4&_nc_ht=scontent.fdac155-1.fna&oh=00_AfB-TpYzHCil5v7gGiYrmoM__6W4xE45rOnzlxqfS9fb8A&oe=63B3F57F)
 
-### Hi there 👋, I'm JC Barman
+### Hi there, I'm Jyotish Chandra Barman
 #### I am a front-end web developer
 
 I love to know new and create something unique. Always I will be ready to do hard work and make some special. Already I created more than 20 designs and most of the time I work with HTML, CSS, JavaScript, and ReactJS.
